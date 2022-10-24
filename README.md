@@ -6,12 +6,12 @@ As a part of CMPT Embodded computer systems I learned to attain a system-level u
 
 Hardware needed for this project:
 
-1 x board
-1 x USB cable 
-1 x plug-in expansion board
-1 x 4 Matrix keyboard module
-1 x Servo motor (SG90)
-1 x LCD1602 module (with pin header)
-3 x LEDs (Green) 
-1 x LED (Red)
-Bunch of pin male/female connection cables and bunch of normal connection cables
+- 1 x board
+- 1 x USB cable 
+- 1 x plug-in expansion board
+- 1 x 4 Matrix keyboard module
+- 1 x Servo motor (SG90)
+- 1 x LCD1602 module (with pin header)
+- 3 x LEDs (Green) 
+- 1 x LED (Red)
+- Bunch of pin male/female connection cables and bunch of normal connection cables
