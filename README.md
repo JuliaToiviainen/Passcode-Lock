@@ -15,3 +15,6 @@ Hardware needed for this project:
 - 1 x LEDs (Green) 
 - 1 x LED (Red)
 - Bunch of pin male/female connection cables and bunch of normal connection cables
+
+Check out how the project looks like from my Youtube!
+https://www.youtube.com/watch?v=hnCPsk9VWVI&feature=youtu.be
